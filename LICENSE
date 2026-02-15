@@ -1,4 +1,18 @@
-MIT License
+Save changes ✔️
+
+---
+
+## PART 4: Add Project Files from Your Computer (Git Method)
+
+### Step 1: Install Git (if not installed)
+- Download from **git-scm.com**
+
+---
+
+### Step 2: Open terminal / command prompt
+Go to your project folder:
+```bash
+cd path/to/your/project License
 
 Copyright (c) 2026 Dankano1
 
